@@ -2,8 +2,8 @@ import os
 import smtplib
 
 
-os.environ['EMAIL_USER'] = 'neelakshikaundal89@gmail.com'
-os.environ['EMAIL_PASS'] = 'blbr exiw koui mhwp'
+os.environ['EMAIL_USER'] = ''
+os.environ['EMAIL_PASS'] = ''
 
 
 sender_email = os.environ.get('EMAIL_USER')
