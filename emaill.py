@@ -9,7 +9,7 @@ os.environ['EMAIL_PASS'] = ''
 sender_email = os.environ.get('EMAIL_USER')
 password = os.environ.get('EMAIL_PASS')
 
-receiver_email = 'manishbissau04@gmail.com'
+receiver_email = ''
 subject = 'Simple Email'
 body = 'Hello, this is a simple email sent using Python and os module.'
 
